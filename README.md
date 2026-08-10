@@ -57,13 +57,13 @@
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-###
+##
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=wariha77-wq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+##
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/wariha77-wq/wariha77-wq/snake-output/snake.svg" alt="Snake animation" />
 
